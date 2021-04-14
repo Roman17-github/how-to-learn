@@ -1,0 +1,11 @@
+.resources__logo {
+    width: 270px;
+    height: 38px;
+    list-style-type: none;
+}
+
+.resources__logo:hover {
+    -webkit-box-shadow:0 0 50px 5px blue;
+    -moz-box-shadow:0 0 50px 5px blue;
+    box-shadow:  0 0 50px 5px blue;
+  }
