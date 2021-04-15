@@ -5,7 +5,5 @@
 }
 
 .resources__logo:hover {
-    -webkit-box-shadow:0 0 50px 5px blue;
-    -moz-box-shadow:0 0 50px 5px blue;
-    box-shadow:  0 0 50px 5px blue;
+    opacity: 0.5;
   }
